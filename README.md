@@ -43,10 +43,11 @@ Interpretacja: System myli się średnio o zaledwie ~0.66 gwiazdki podczas przew
 
 1. Sklonuj repozytorium na swój dysk:
    ```bash
-   git clone [https://github.com/Nazar570/pyspark-movie-recommender.git](https://github.com/Nazar570/pyspark-movie-recommender.git)
+   git clone https://github.com/Nazar570/pyspark-movie-recommender.git
    ```
 2. Przejdź do folderu z projektem i zainstaluj wymagane zależności:
    ```bash
+   cd pyspark-movie-recommender
    pip install -r requirements.txt
    ```
 3. Uruchom notatnik `main.ipynb` w środowisku obsługującym notatniki Jupyter (np. PyCharm, VS Code lub klasyczny Jupyter Notebook).
